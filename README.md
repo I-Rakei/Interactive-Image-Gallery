@@ -1,6 +1,4 @@
-Aqui está o README traduzido para o português:
-
----
+ON-IT
 
 # Galeria de Imagens em React
 
@@ -119,6 +117,4 @@ Se você deseja contribuir com este projeto:
 
 Este projeto está licenciado sob a [Licença MIT](./LICENSE).
 
----
 
-Deixe-me saber se quiser adicionar mais detalhes ou seções ao README!
